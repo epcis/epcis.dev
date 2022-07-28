@@ -44,4 +44,4 @@ Certification details associated with harvest, production, shipments and locatio
 Our entire infrastructure is also built on [GraphDL](https://graphdl.org), [Graph.do](https://graph.do), [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/), and [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/).  If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
 
 
-![Drivly](https://driv.ly/assets/img/drivly_logo.png)
+[![Drivly](https://driv.ly/assets/img/drivly_logo.png)](https://driv.ly)
