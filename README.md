@@ -1,5 +1,5 @@
 # [EPCIS.dev](https://epcis.dev)
-[EPCIS.dev](https://epcis.dev) is an EPCIS 2.0 Repository built in [GraphDL](https://graphdl.org) and deployed on [Graph.do](https://graph.do) and [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/) [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)
+[EPCIS.dev](https://epcis.dev) is an [open-source](https://github.com/epcis/epcis.dev) [EPCIS 2.0](https://www.gs1.org/standards/epcis) Repository built in [GraphDL](https://graphdl.org) and deployed on [Graph.do](https://graph.do) and [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/) [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/)
 
 
 ## What is EPCIS?
