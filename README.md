@@ -1,5 +1,19 @@
 # [EPCIS.dev](https://epcis.dev)
-[EPCIS.dev](https://epcis.dev) is EPCIS 2.0 Repository built in GraphDL and Cloudflare Workers Durable Objects
+[EPCIS.dev](https://epcis.dev) is globally-distributed developer-first Visibility Platform and EPCIS 2.0 Repository built in GraphDL and Cloudflare Workers Durable Objects.
+
+## EPCIS Events
+
+### Who
+
+### What
+
+### When
+
+### Where
+
+### Why
+
+### How
 
 
 
