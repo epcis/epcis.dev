@@ -41,7 +41,7 @@ Certification details associated with harvest, production, shipments and locatio
 ## Sponsor
 [EPCIS.dev](https://epcis.dev) is sponsored by [Driv.ly](https://driv.ly) who provides developer-first automotive commerce infrastructure, and is funded by some of the [biggest](https://twitter.com/TurnerNovak) [names](http://expansionvc.com/portfolio/) in [automotive](https://fontinalis.com/team/#bill-ford) [commerce](https://rocketauto.com) and [finance & insurance](https://www.detroit.vc)
 
-We're building our entire infrastructure on [GraphDL](https://graphdl.org), [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/), and [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/).  If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
+Our entire infrastructure is also built on [GraphDL](https://graphdl.org), [Graph.do](https://graph.do), [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/), and [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/).  If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
 
 
 ![Drivly](https://driv.ly/assets/img/drivly_logo.png)
