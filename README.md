@@ -22,7 +22,7 @@ EPCIS / CBV 2.0 represents a major update that provides many new features, and i
  - GS1 Digital Link URI syntax to express GS1 identifiers within EPCIS event data
  
 
-##Business Benefits
+## Business Benefits
 
 EPCIS is a traceability event messaging standard that enables supply chain visibility through sharing event data using a common language across, between and within enterprises. EPCIS 2.0 supports existing and emerging industry use cases for traceability and supply chain visibility, providing such information as:
 
@@ -39,9 +39,9 @@ Certification details associated with harvest, production, shipments and locatio
 [EPCIS.dev](https://epcis.dev) was created by [Nathan Clevenger](https://github.com/nathanclevenger) to simplify the experience of capturing end-to-end supply chain visibility in the cloud using the [next-generation](https://graphdl.org) of [transformational](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/) [edge](https://developers.cloudflare.com/workers/learning/how-workers-works/) [technologies](https://developers.cloudflare.com/pub-sub/).
 
 ## Sponsor
+
+[![](https://github.com/drivly/driv.ly/raw/main/logo.png)](https://driv.ly)
+
 [EPCIS.dev](https://epcis.dev) is sponsored by [Driv.ly](https://driv.ly) who provides developer-first automotive commerce infrastructure, and is funded by some of the [biggest](https://twitter.com/TurnerNovak) [names](http://expansionvc.com/portfolio/) in [automotive](https://fontinalis.com/team/#bill-ford) [commerce](https://rocketauto.com) and [finance & insurance](https://www.detroit.vc)
 
 Our entire infrastructure is also built on [GraphDL](https://graphdl.org), [Graph.do](https://graph.do), [Cloudflare Workers](https://developers.cloudflare.com/workers/learning/how-workers-works/), and [Durable Objects](https://blog.cloudflare.com/durable-objects-easy-fast-correct-choose-three/).  If you're as passionate about these transformational technologies as we are, we'd love for you to join our rapidly-growing team.
-
-
-[![Drivly](https://uploads-ssl.webflow.com/60bee04bdb1a7a33432ce295/60beeb6f38814ea48d5c7c02_Drivly_logo_dark.svg)](https://driv.ly)
