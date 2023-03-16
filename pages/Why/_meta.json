@@ -1,0 +1,14 @@
+{
+  "ASN": "Advance Shipping Notice",
+  "BOL": "Bill of Lading",
+  "CERT": "Certificate",
+  "PED": "Pedigree",
+  "PO": "Purchase Order",
+  "RA": "Receiving Advice",
+  "SO": "Sales Order",
+  "INV": "Invoice",
+  "PMNT": "Payment",
+  "TP": "Test Procedure",
+  "TR": "Test Results",
+  "RMA": "Return Merchandise Authorization"
+}

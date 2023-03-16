@@ -1,0 +1,38 @@
+{
+  "name": "cobe-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "theme.config.js",
+  "dependencies": {
+    "@heroicons/react": "^2.0.16",
+    "@mdx-js/react": "^2.3.0",
+    "@xstate/react": "^3.2.1",
+    "cobe": "^0.6.3",
+    "geolib": "^3.3.3",
+    "leva": "^0.9.34",
+    "lodash-es": "^4.17.21",
+    "next": "^12.1.6-canary.6",
+    "nextra": "^2.2.19",
+    "nextra-theme-docs": "^2.2.19",
+    "qrcode.react": "^3.1.0",
+    "random": "^4.1.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-spring": "^9.4.4",
+    "sonner": "^0.2.0",
+    "usehooks-ts": "^2.9.1",
+    "xstate": "^4.37.0"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "author": "Shu Ding <g@shud.in>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Manufacturing": "Manufacturing",
+  "Picking": "Picking",
+  "Packing": "Packing",
+  "Shipping": "Shipping",
+  "Receiving": "Receiving",
+  "Selling": "Selling",
+  "Returning": "Returning",
+  "Recycling": "Recycling"
+}

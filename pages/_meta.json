@@ -1,0 +1,221 @@
+{
+  "index": {
+    "title": "Home",
+    "display": "hidden",
+    "type": "page",
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "GettingStarted": "Getting Started",
+  "api": "API",
+  "---": {
+    "type": "separator"
+  },
+  "Who": "Who",
+  "What": "What",
+  "When": "When",
+  "Where": "Where",
+  "Why": "Why",
+  "How": "How",
+  "who": {
+    "title": "Who",
+    "type": "menu",
+    "items": {
+      "automotive": {
+        "title": "Automotive",
+        "href": "/automotive"
+      },
+      "computer-hardware": {
+        "title": "Computer Hardware",
+        "href": "/computer-hardware"
+      },
+      "consumer-goods": {
+        "title": "Consumer Goods",
+        "href": "/consumer-goods"
+      },
+      "food-and-beverage": {
+        "title": "Food & Beverage",
+        "href": "/food-and-beverage"
+      },
+      "medical-devices": {
+        "title": "Medical Devices",
+        "href": "/medical-devices"
+      },
+      "pharmaceutical": {
+        "title": "Pharmaceutical",
+        "href": "/pharmaceutical"
+      },
+      "retail": {
+        "title": "Retail & eCommerce",
+        "href": "/retail"
+      }
+    }
+  },
+  "what": {
+    "title": "What",
+    "type": "menu",
+    "items": {
+      "products": {
+        "title": "Products",
+        "href": "/products"
+      },
+      "packages": {
+        "title": "Packages",
+        "href": "/packages"
+      },
+      "assets": {
+        "title": "Assets",
+        "href": "/assets"
+      },
+      "pallets": {
+        "title": "Pallets",
+        "href": "/pallets"
+      },
+      "containers": {
+        "title": "Containers",
+        "href": "/containers"
+      },
+      "shipments": {
+        "title": "Shipments",
+        "href": "/shipments"
+      },
+      "services": {
+        "title": "Services",
+        "href": "/services"
+      }
+    }
+  },
+  "when": {
+    "title": "When",
+    "type": "menu",
+    "items": {
+      "manufacturing": {
+        "title": "Manufacturing",
+        "href": "/manufacturing"
+      },
+      "picking": {
+        "title": "Picking",
+        "href": "/manufacturing"
+      },
+      "packing": {
+        "title": "Packing",
+        "href": "/manufacturing"
+      },
+      "shipping": {
+        "title": "Shipping",
+        "href": "/manufacturing"
+      },
+      "receiving": {
+        "title": "Receiving",
+        "href": "/manufacturing"
+      },
+      "selling": {
+        "title": "Selling",
+        "href": "/manufacturing"
+      },
+      "recycling": {
+        "title": "Recycling",
+        "href": "/manufacturing"
+      }
+    }
+  },
+  "where": {
+    "title": "Where",
+    "type": "menu",
+    "items": {
+      "manufacturing": {
+        "title": "Factory",
+        "href": "/manufacturing"
+      },
+      "packing": {
+        "title": "Port",
+        "href": "/manufacturing"
+      },
+      "receiving": {
+        "title": "Yard",
+        "href": "/manufacturing"
+      },
+      "picking": {
+        "title": "Warehouse",
+        "href": "/manufacturing"
+      },
+      "selling": {
+        "title": "Store",
+        "href": "/manufacturing"
+      },
+      "recycling": {
+        "title": "Home",
+        "href": "/manufacturing"
+      },
+      "hospital": {
+        "title": "Hospital",
+        "href": "/manufacturing"
+      }
+    }
+  },
+  "why": {
+    "title": "Why",
+    "type": "menu",
+    "items": {
+      "manufacturing": {
+        "title": "Production Order",
+        "href": "/Why#production-order"
+      },
+      "picking": {
+        "title": "Shipping Notice",
+        "href": "/How#shipping-notice"
+      },
+      "packing": {
+        "title": "Bill of Lading",
+        "href": "/How#bill-of-lading"
+      },
+      "shipping": {
+        "title": "Sales Order",
+        "href": "/Why#sales-order"
+      },
+      "receiving": {
+        "title": "Invoice",
+        "href": "/Why#invoice"
+      },
+      "selling": {
+        "title": "Payment",
+        "href": "/Why#payment"
+      },
+      "recycling": {
+        "title": "RMA",
+        "href": "/Why#return-merchandise-authorization"
+      }
+    }
+  },
+  "how": {
+    "title": "How",
+    "type": "menu",
+    "items": {
+      "manufacturing": {
+        "title": "APIs",
+        "href": "/How/APIs"
+      },
+      "robots": {
+        "title": "EDI",
+        "href": "/How/EDI"
+      },
+      "tags": {
+        "title": "Tags",
+        "href": "/How/Tags"
+      },
+      "picking": {
+        "title": "Printers",
+        "href": "/How/Printers"
+      },
+      "receiving": {
+        "title": "Scanners",
+        "href": "/How/Scanners"
+      },
+      "selling": {
+        "title": "Readers",
+        "href": "/How/Readers"
+      }
+    }
+  }
+}
