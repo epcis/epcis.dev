@@ -80,4 +80,9 @@ export default {
   //   return 'Edit this page on GitHub'
   // },
   // gitTimestamp: false,
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – EPCIS.Dev',
+    }
+  }
 }
