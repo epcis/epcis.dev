@@ -24,15 +24,15 @@
     "items": {
       "automotive": {
         "title": "Automotive",
-        "href": "/automotive"
+        "href": "/Who/Automotive"
       },
       "computer-hardware": {
         "title": "Computer Hardware",
-        "href": "/computer-hardware"
+        "href": "/Who/Computer-Hardware"
       },
       "consumer-goods": {
         "title": "Consumer Goods",
-        "href": "/consumer-goods"
+        "href": "/Who/Consumer-Goods"
       },
       "food-and-beverage": {
         "title": "Food & Beverage",

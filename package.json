@@ -6,6 +6,7 @@
   "dependencies": {
     "@heroicons/react": "^2.0.16",
     "@mdx-js/react": "^2.3.0",
+    "@tremor/react": "^2.0.2",
     "@xstate/react": "^3.2.1",
     "cobe": "^0.6.3",
     "geolib": "^3.3.3",
