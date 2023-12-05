@@ -14,7 +14,7 @@ The EPCIS standard defines a common data model for events, including information
 
 One of the key benefits of the EPCIS standard is that it provides a standardized framework for data exchange across the supply chain. This standardization enables greater interoperability among different systems, and it also ensures that data is consistently formatted and structured. This consistency makes it easier to secure supply chain data, as security tools can be optimized for a standardized format.
 
-Another way that EPCIS helps to ensure data privacy and confidentiality is through the use of access controls. Access controls can be implemented through the use of EPCIS middleware or an EPCIS repository. Middleware is a software layer that sits between the data source and the data receiver, and it can be configured to restrict access to sensitive data. An EPCIS repository is a centralized database that stores event data and provides access controls based on user roles.
+Another way that EPCIS helps to ensure data privacy and confidentiality is through the use of access controls. Access controls can be implemented through the use of EPCIS middleware or an EPCIS repository. Middleware is a software layer that sits between the data source and the data receiver, and it can be configured to restrict access to sensitive data. An EPCIS repository is a database that stores event data and provides access controls based on user roles.
 
 EPCIS also supports encryption of data in transit and at rest. Encryption ensures that data is protected against unauthorized access or interception. Data encryption can be implemented at various points in the supply chain, including between trading partners or during data transfer between systems.
 

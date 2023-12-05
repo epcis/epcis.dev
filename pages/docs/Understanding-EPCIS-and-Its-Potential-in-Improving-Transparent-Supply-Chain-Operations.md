@@ -16,7 +16,7 @@ At a high level, EPCIS works by capturing and sharing supply chain event data in
 
 To capture this data, EPCIS uses a variety of data capture technologies, including RFID tags, barcodes, and QR codes. These technologies allow businesses to attach unique identifiers to individual products or shipments, which can then be used to track their movement through the supply chain.
 
-Once this data has been captured, it is stored in a centralized EPCIS repository, where it can be easily accessed and shared by businesses across the supply chain. By providing a standard format for sharing supply chain event data, EPCIS enables businesses to streamline their supply chain operations, improve visibility into their inventory and assets, and make faster, more informed decisions.
+Once this data has been captured, it is stored in an EPCIS repository, where it can be easily accessed and shared by businesses across the supply chain. By providing a standard format for sharing supply chain event data, EPCIS enables businesses to streamline their supply chain operations, improve visibility into their inventory and assets, and make faster, more informed decisions.
 
 ## Why is EPCIS Valuable?
 

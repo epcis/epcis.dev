@@ -26,7 +26,7 @@ The capture tier is responsible for capturing information about the movement of 
 
 ### **Repository**
 
-Once the information has been captured, it is stored within a repository. The repository serves as a centralized database that contains information about the movement of products across the supply chain. This information can be accessed by authorized parties to track and trace products as they move across the supply chain.
+Once the information has been captured, it is stored within a repository. The repository serves as a database that contains information about the movement of products across the supply chain. This information can be accessed by authorized parties to track and trace products as they move across the supply chain.
 
 ### **Query**
 

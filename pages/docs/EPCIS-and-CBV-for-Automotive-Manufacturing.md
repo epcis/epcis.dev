@@ -6,7 +6,7 @@ As technology becomes increasingly intertwined with manufacturing processes, it 
 
 EPCIS is an open standard that enables businesses to capture and share data about product movement and location across the supply chain. The framework is built on a suite of web services, enabling systems to interact with each other seamlessly. EPCIS utilizes Electronic Product Codes (EPCs) which are unique identifiers for products that can be read by both humans and machines.
 
-This creates a centralized system tracking the journey of goods from start to finish, regardless of the location, providing visibility into the whereabouts of goods at any given stage. This allows manufacturers to optimize their supply chain and manage it effectively with minimal delays.
+This creates an interoperable system tracking the journey of goods from start to finish, regardless of the location, providing visibility into the whereabouts of goods at any given stage. This allows manufacturers to optimize their supply chain and manage it effectively with minimal delays.
 
 ## What is CBV?
 

@@ -14,13 +14,13 @@ At its core, EPCIS is a standardized way to describe events that occur in the su
 
 ## How Does EPCIS Work?
 
-EPCIS works by capturing data at various points in the supply chain and storing it in a centralized database. This database can be accessed by authorized parties to track the movement and status of products.
+EPCIS works by capturing data at various points in the supply chain and storing it in one or more databases (centralised or decentralised). Such databases can be accessed by authorized parties to track the movement and status of products.
 
 To understand how EPCIS works, let's take a look at an example. Imagine a company that produces and distributes widgets. The company uses RFID tags to track the location of their widgets as they move through the supply chain.
 
 When a widget is received at a warehouse, an EPCIS event is created that includes information about the location, time, and status of the widget. As the widget is moved to different locations, additional EPCIS events are created to document its movement. When the widget is ultimately sold to a customer, a final EPCIS event is created to document the sale.
 
-All of these EPCIS events are stored in a centralized database, known as an EPCIS repository. Authorized parties can access this repository to track the movement and status of widgets in real-time.
+All of these EPCIS events are exchanged using interoperable standardised formats and can be stored in one or more databases, known as EPCIS repositories. Authorized parties can access this repository to track the movement and status of widgets in real-time.
 
 ## What is CBV?
 

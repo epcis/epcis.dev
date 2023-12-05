@@ -10,7 +10,7 @@ In this blog post, we'll explore EPCIS and its role in supply chain management f
 
 EPCIS is an open standard that helps enhance supply chain visibility by providing a standardized language for describing the movement and status of products as they go through the supply chain. It is based on the Electronic Product Code (EPC) technology, which utilizes RFID (Radio-Frequency Identification) and other tracking technologies to capture, store and share data about product movements.
 
-The EPCIS system serves as a centralized database, collecting and managing all product-related information captured by the tracking technologies along the supply chain. This includes data on product manufacturing, packaging, shipping, storage, and distribution. The information is then used to provide a complete picture of the products' lifecycle, facilitating real-time visibility, and allowing for better decision-making.
+The EPCIS system supports interoperable data exchange, collecting and managing all product-related information captured by the tracking technologies along the supply chain. This includes data on product manufacturing, packaging, shipping, storage, and distribution. The information is then used to provide a complete picture of the products' lifecycle, facilitating real-time visibility, and allowing for better decision-making.
 
 EPCIS provides numerous benefits, including:
 
@@ -30,7 +30,7 @@ Furthermore, the EPCIS system can help chemical companies improve their operatio
 
 ## EPCIS Implementation Challenges
 
-One of the biggest challenges associated with the adoption of EPCIS is the cost of implementation. Chemical companies will need to invest in tracking technologies, such as RFID tags and readers, and the necessary software to ensure that the tracked data is centralized and accessible.
+One of the biggest challenges associated with the adoption of EPCIS is the cost of implementation. Chemical companies will need to invest in tracking technologies, such as RFID tags and readers, and the necessary software to ensure that the tracked data is interoperable and accessible.
 
 Another challenge is interoperability. While the EPCIS standard provides a common language for product tracking, there is a need for the interoperability of different EPCIS systems implemented by various companies. This is critical for ensuring that companies are not collecting redundant data and that the information collected is exchangeable and can be used to gain insights across the supply chain.
 

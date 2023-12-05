@@ -12,7 +12,7 @@ EPCIS is designed to provide end-to-end visibility into supply chain operations,
 
 EPCIS relies on a standardized data model that allows businesses to capture and share information about the movement of goods across the supply chain. This information is typically captured using RFID tags or other automatic identification technologies, which are attached to products or packaging throughout the supply chain.
 
-As products move through the supply chain, data is automatically collected and transmitted to a centralized EPCIS database. This database can be accessed by authorized stakeholders across the supply chain, who can use this information to track the movement of goods, identify bottlenecks and inefficiencies, and optimize operations accordingly.
+As products move through the supply chain, data is automatically collected and transmitted to an EPCIS database. This database can be accessed by authorized stakeholders across the supply chain, who can use this information to track the movement of goods, identify bottlenecks and inefficiencies, and optimize operations accordingly.
 
 ## The Benefits of EPCIS
 
