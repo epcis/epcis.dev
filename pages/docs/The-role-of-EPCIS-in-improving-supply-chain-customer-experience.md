@@ -12,7 +12,7 @@ Before we dive into the role of EPCIS in improving supply chain customer experie
 
 EPCIS stands for Electronic Product Code Information System. It is a standard developed by GS1, a global organization that provides standards for the supply chain industry. EPCIS allows businesses to track products as they move through the supply chain, enabling them to see where a product is at any given time.
 
-EPCIS works by using unique identification numbers called Electronic Product Codes (EPCs) to track products. Each product has a specific EPC, which is scanned and recorded at each point in the supply chain. This data is then stored in a centralized database, which can be accessed by authorized partners and customers.
+EPCIS works by using unique identification numbers called Electronic Product Codes (EPCs) to track products. Each product has a specific EPC, which is scanned and recorded at each point in the supply chain. This data is then stored in a database, which can be accessed by authorized partners and customers.
 
 EPCIS provides businesses with real-time visibility into their supply chain. They can quickly identify and address issues that could lead to delays or errors, improving efficiency and reducing costs.
 

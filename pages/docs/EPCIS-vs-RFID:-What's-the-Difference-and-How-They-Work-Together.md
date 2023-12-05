@@ -16,7 +16,7 @@ RFID stands for "Radio-Frequency Identification". It is a wireless technology th
 
 RFID can operate in two different modes: passive and active. Passive RFID tags do not have their own power source, and instead rely on the power from the RFID reader to transmit data. Active RFID tags, on the other hand, have their own power source and can transmit data over longer distances.
 
-RFID tags can be scanned by RFID readers, which capture the data from the tag and transmit it to a centralized database or system. RFID technology provides companies with an efficient and accurate way to track and trace products throughout the supply chain.
+RFID tags can be scanned by RFID readers, which capture the data from the tag and transmit it to a database or information system. RFID technology provides companies with an efficient and accurate way to track and trace products throughout the supply chain.
 
 ## How do EPCIS and RFID work together?
 

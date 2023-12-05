@@ -12,7 +12,7 @@ EPCIS is designed to help businesses answer the key questions of who, what, when
 
 EPCIS works by creating a standardized format for sharing information about products and their movement across the supply chain. This information is captured using RFID or barcodes and encoded into electronic Product Code (EPC) tags. These EPC tags are then scanned at various points in the supply chain, creating a digital trail of the product's movement.
 
-EPCIS captures information such as the product's location, the date and time it was scanned, and any changes to its physical state, such as temperature or humidity levels. This information is then stored in a centralized database where it can be accessed by authorized parties across the supply chain.
+EPCIS captures information such as the product's location, the date and time it was scanned, and any changes to its physical state, such as temperature or humidity levels. This information is then stored in a database where it can be accessed by authorized parties across the supply chain.
 
 EPCIS also supports serialization, which assigns a unique identifier to each individual product. This enables businesses to track each product's movement throughout the supply chain, providing greater visibility and accountability.
 

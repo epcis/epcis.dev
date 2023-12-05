@@ -8,7 +8,7 @@ Electronic Product Code Information Services (EPCIS) is a global standard for ca
 
 ## How EPCIS Works
 
-EPCIS technology utilizes unique identification codes (UIDs) for each product, which are stored in a centralized database. This allows businesses to track the movement of their products throughout the supply chain, including information about the product's origin, production process, and storage conditions. EPCIS also offers a standardized way of sharing this information with other businesses, which promotes collaboration and transparency along the supply chain.
+EPCIS technology utilizes unique identification codes (UIDs) for each product, which are stored in a database. This allows businesses to track the movement of their products throughout the supply chain, including information about the product's origin, production process, and storage conditions. EPCIS also offers a standardized way of sharing this information with other businesses, which promotes collaboration and transparency along the supply chain.
 
 ## Benefits of Using EPCIS for Food Safety
 
